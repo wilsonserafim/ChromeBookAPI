@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UlfDnlTH4ZfhIMhOFDK2Csf2tPVBl4vkKLRN5IfrEAw=",
+  "Source": "CromeBookAPI",
+  "BasePath": "_content/CromeBookAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
